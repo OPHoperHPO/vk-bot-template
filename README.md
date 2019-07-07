@@ -1,4 +1,4 @@
-# VK longpoll bot template.
+# vk-bot-template
 Универсальный python бот-заготовка для https://vk.com/. 
 ## Возможности бота:
 * Это longpoll бот.
