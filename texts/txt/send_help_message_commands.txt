@@ -1,0 +1,4 @@
+_exception_
+/help
+help
+помощь по боту

@@ -1,0 +1,16 @@
+{
+  "Main":{
+    "help_message": "help_message.txt"
+  },
+  "Commands": {
+    "send_help_message": "send_help_message_commands.txt",
+    "send_user_message": "send_user_message_commands.txt",
+    "search_info_in_search_engine": "search_info_in_search_engine_commands.txt"
+  },
+  "Common Errors": {
+    "empty_message_error": "Прости, но ты ввёл пустое сообщение.",
+    "not_found_error": "Ничего не найдено.",
+    "unknown_error": "Произошла неизвестная ошибка.",
+    "bot_error": "Ошибка бота."
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "Auth": {
+    "token_longpoll": "abcd123456789",
+    "group_id": "1234567890"
+  },
+  "Access Levels" : {
+    "bot_creator": [1234567890],
+    "high": [],
+    "middle": []
+  },
+  "Accessed Functions" : {
+    "bot_creator": "bot_creator_functions.auth",
+    "high": "high_functions.auth",
+    "middle": "middle_functions.auth",
+    "usual": "usual_functions.auth"
+  },
+  "Bot Settings": {
+    "accessed_functions": "config/auth/",
+    "texts_folder": "texts/txt/"
+  }
+}
