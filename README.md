@@ -1,4 +1,4 @@
-# VK Longpoll platform для создания бота.
+# VK longpoll bot template.
 Универсальный python бот-заготовка для https://vk.com/. 
 ## Возможности бота:
 * Это longpoll бот.
