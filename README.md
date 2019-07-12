@@ -19,6 +19,7 @@ requests - Необходимо для example функции (Поиск в Duc
 json - Необходимо для парсинга config.json и text_id.json
 ```
 ## Запуск бота:
+* ``ВНИМАНИЕ! Бота нужно запускать из PROJECT ROOT(это папка, где он лежит)!``
 * Скачиваем репозиторий в какую-нибудь папку. ``` git clone https://github.com/OPHoperHPO/python_vk_bot```
 * Идём по пути ```cd config```
 * Прописываем в config.json бота
