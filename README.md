@@ -26,7 +26,6 @@ json - Необходимо для парсинга config.json и text_id.json
 
 ### TODO:
 ```
-0) Добавить ./lib/ в modules path!
 1) Написать example модуль.
 2) Написать грамотное wiki для бота.
 ```
