@@ -36,6 +36,7 @@ json - Необходимо для парсинга config.json и text_id.json
 ```
 ### 💵 Поддержка проекта:
 Вы можете поблагодарить меня за разработку этого проекта, оказать финансовую поддержку для разработки новых проектов и купить мне маленькую чашку кофе ☕. \
-  Просто поддержите меня на этих платформах: \
-  ⭐[**Boosty**⭐](https://boosty.to/anodev) \
-  ⭐[**DonationAlerts**⭐](https://www.donationalerts.com/r/anodev_development)
+  Просто поддержите меня на этих платформах: 
+  * ![](https://github.com/OPHoperHPO/OPHoperHPO/raw/master/assets/imgs/boosty_logo.jpeg) [**Boosty**](https://boosty.to/anodev)
+  * ![](https://github.com/OPHoperHPO/OPHoperHPO/raw/master/assets/imgs/donationalerts_logo.png) [**DonationAlerts**](https://www.donationalerts.com/r/anodev_development)
+  * ![](https://github.com/OPHoperHPO/OPHoperHPO/raw/master/assets/imgs/paypal_logo.jpg) [**PayPal**](https://paypal.me/anodev)
